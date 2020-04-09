@@ -4,8 +4,8 @@
 ## Python NoteBook
 
 
-[Python Basics](https://nitendragautam.github.io/python_notebook/pythonBasics.html)
+[Python Basics](https://nitendragautam.github.io/python_notebooks/pythonBasics.html)
 
 
-[Solving linear equations ](https://nitendragautam.github.io/python_notebook/solve-linear-equations-with-python.html)
+[Solving linear equations ](https://nitendragautam.github.io/python_notebooks/solve-linear-equations-with-python.html)
 
