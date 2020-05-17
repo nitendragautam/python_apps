@@ -63,3 +63,8 @@ new records need to be inserted.
 * INSERT: new business keys exist in source that need to be inserted into the target table directly.
 
 * NOACTION: no changes to the attributes or the records in target table are not current.
+
+
+## Reference
+
+https://kontext.tech/column/spark/286/implement-scd-type-2-full-merge-via-spark-data-frames
