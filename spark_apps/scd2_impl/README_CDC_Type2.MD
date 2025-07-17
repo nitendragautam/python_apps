@@ -65,6 +65,13 @@ new records need to be inserted.
 * NOACTION: no changes to the attributes or the records in target table are not current.
 
 
+## Submit the Pyspark jobs in EMR
+
 ## Reference
+
+
+$SPARK_HOME/bin/spark-submit --master local ./scd2_impl/cdc_type2.py
+
+
 
 https://kontext.tech/column/spark/286/implement-scd-type-2-full-merge-via-spark-data-frames
